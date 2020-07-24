@@ -23,14 +23,14 @@ class MyApp extends StatelessWidget {
             backgroundImage: AssetImage('images/logo1.png'),
           ),
           Text(
-            'Kaidjohar S',
+            'NAME',
             style: TextStyle(
                 fontSize: 40.0,
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
                 fontFamily: 'Pacifico'),
           ),
-          Text('UNIVERSAL INDUSTRIAL TRADERS',
+          Text('COMPANY NAME',
               style: TextStyle(
                 fontSize: 18.0,
                 fontFamily: 'Source Sans Pro',
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                 letterSpacing: 2.5,
                 fontWeight: FontWeight.bold,
               )),
-          Text('OWNER',
+          Text('ROLE',
               style: TextStyle(
                 fontSize: 20.0,
                 fontFamily: 'Source Sans Pro',
@@ -61,7 +61,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.white,
                 ),
                 title: Text(
-                  '+91 9841054212',
+                  'PHONE NUMBER',
                   style: TextStyle(
                     color: Colors.white,
                     fontFamily: 'Source Sans Pro',
@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
                 color: Colors.white,
               ),
               title: Text(
-                'universalindtr@hotmail.com',
+                'EMAIL',
                 style: TextStyle(
                   color: Colors.white,
                   fontFamily: 'Source Sans Pro',
@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.white,
                 ),
                 title: Text(
-                  'https://universalindustrial.shop',
+                  'WEBSITE',
                   style: TextStyle(
                     color: Colors.white,
                     fontFamily: 'Source Sans Pro',
